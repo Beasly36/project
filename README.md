@@ -8,3 +8,4 @@ This is awesome project
 =======
 ## Conflict
 >>>>>>> conflict
+GG
